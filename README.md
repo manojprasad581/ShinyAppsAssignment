@@ -4,5 +4,5 @@
  - Link to the deployed ShinyApp
 https://manojprasad.shinyapps.io/ShinyAppAssignment/
 
- - Link to the deployed Pitch Presentation (via GitHub Pahes)
+ - Link to the deployed Pitch Presentation (via GitHub Pages)
  https://manojprasad581.github.io/ShinyAppsAssignment/
